@@ -88,5 +88,4 @@ MIT License / Bebas digunakan dan dimodifikasi.
 
 *Developed by alexithema*
 
-```
 
