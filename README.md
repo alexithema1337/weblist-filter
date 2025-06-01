@@ -21,7 +21,6 @@ Skrip Python ini berfungsi untuk menyaring dan menghapus subdomain dari daftar d
 
    ```bash
    python remove_subdomains.py
-````
 
 3. Saat diminta, masukkan nama file input (file daftar domain) dan nama file output (untuk menyimpan hasil).
 
